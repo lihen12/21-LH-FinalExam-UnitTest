@@ -8,8 +8,7 @@ public class StringCalculator {
 
                 if (numberInteger < 0) {
                     throw new IllegalArgumentException("negatives not allowed.");
-                }
-                if (numberInteger <= 1000) {
+                } else if (numberInteger < 1000) {
                     returnValue += numberInteger;
                 }
             }
