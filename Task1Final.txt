@@ -1,0 +1,15 @@
+Task 1:
+Git init
+git status
+Git commit
+Create repository and push first commit
+Extend add() method for StringCalculator
+Git add *
+git commit
+Create test cases for StringCalculator
+git add *
+git commit 
+git push origin
+add travis file
+git add travis file
+git commit
